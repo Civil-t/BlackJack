@@ -1,6 +1,6 @@
 let player = {
   name: "Tapiwa",
-  chips: 200,
+  chips: 1000,
 };
 
 let cards = [];
